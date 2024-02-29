@@ -1,4 +1,4 @@
-- This is a copy of the original:
+- This is a copy (as we cannot fork) of the original:
 
 # MERF: Memory-Efficient Radiance Fields for Real-time View Synthesis in Unbounded Scenes
 
