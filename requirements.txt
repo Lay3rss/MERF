@@ -1,0 +1,12 @@
+numpy
+tqdm
+scipy
+gin-config
+absl-py
+Pillow
+optax
+scikit-image
+dm-pix
+tensorflow==2.9.0
+tensorflow-hub
+mediapy
